@@ -1,0 +1,13 @@
+#push a file to Github
+
+1. redirect to the file path where you will use git 
+2. initiate git 
+git init
+3. add file or all the files in the path 
+git add <filename> or add.
+4. (optional) check status or log
+git status/log
+5. git commit -m "commit message"
+6. git remote add <repo name> <repo address>
+git remote -v
+git push -u/-f origin master (or other branch name, or don't say it at all)
