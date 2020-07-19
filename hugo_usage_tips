@@ -1,0 +1,8 @@
+1. how to open a local site w/ hugo in terminal
+cd to the right directory(where you put config.toml in 
+hugo servier -D  #open server
+find the right url and put it in your browser 
+
+reference
+1. a site that inspired my hugo blogging
+https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7 
